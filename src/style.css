@@ -1,0 +1,28 @@
+.table{
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.btnn{
+    width: 80%;
+    margin: auto;
+   
+}
+.div{
+    display: flex;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+.b{
+    display: flex;
+    flex-shrink: 1;
+}
+
+th{
+    text-align: center;
+}
